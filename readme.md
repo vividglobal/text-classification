@@ -20,7 +20,7 @@ Sample data in `product_text_classifier/data/samples/samples.csv`
 
 |text|label1|label2|label3|filename|
 |---|---|---|---|---|
-|grow 4 1 abbott cân nặng giúp abbott 900g hơn thông cao minh 26 power nent foreng cao hơn,|abbott|abbott grow|abbott grow 1|all_crop_data/abbott/abbott_grow/abbott_grow_1/0008.jpg
+|grow 4 1 abbott weight helps abbott 900g higher intelligence 26 power nent foreng higher,|abbott|abbott grow|abbott grow 1|all_crop_data/abbott/abbott_grow/abbott_grow_1/0008.jpg
 
 #### Data description
 * **text**: product text content
