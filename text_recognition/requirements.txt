@@ -1,0 +1,3 @@
+fire
+lmdb
+opencv-python
